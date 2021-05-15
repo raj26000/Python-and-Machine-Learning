@@ -11,3 +11,7 @@ Dataset Sources:
 3. Flu Shot Learning: Predict whether a person received their H1N1 and seasonal flu vaccines. 
    Data Source: https://www.drivendata.org/competitions/66/flu-shot-learning/
    drivendata.org Hackathon. (Final score: 0.8194 - ROC)
+   
+4. Richter Predictor: Predict level of damage to buildings due to the 2015 Nepal Earthquake. 
+   Data Source: https://www.drivendata.org/competitions/57/nepal-earthquake/
+   drivendata.org Hackathon. (Final Score: 0.7457 - micro F1)
