@@ -8,4 +8,6 @@ Dataset Sources:
 2. Classification of Loan Eligibility: https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/
 (Analytics Vidhya Hackathon: Final accuracy on Test Data = 0.7986)
 
-
+3. Flu Shot Learning: Predict whether a person received their H1N1 and seasonal flu vaccines. 
+   Data Source: https://www.drivendata.org/competitions/66/flu-shot-learning/
+   drivendata.org Hackathon. (Final score: 0.8194 - ROC)
