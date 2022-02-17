@@ -17,6 +17,7 @@ Dataset Sources:
    drivendata.org Hackathon. (Final Score: 0.7457 - micro F1)
     
 5. CASCADE CUP '22: (Team of 2 - Nerdy Duo)
+
       Round-1: Data Science Quiz.   
       Scored 31.75/40 and ranked 4th among all participating teams. Qualified to next round.
 
