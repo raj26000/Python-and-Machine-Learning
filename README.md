@@ -25,4 +25,4 @@ Dataset Sources:
       Challenge to predict rider driven cancellation of orders, evaluated using ROC-AUC. Code has been attached. Finished 23 out of 198 teams and qualified to next round. Training       file is too large to upload; find it in the challenge link, test file and metadata uploaded. 
       
       Round-3: EDA and Data Analysis Report.
-      Prepared a data analysis report on train_data and call_data (metadata) provided. Code for the same is attached as well.
+      Prepared a data analysis report on train_data and call_data (metadata) provided. Code for the same is attached as well, along with the report.
